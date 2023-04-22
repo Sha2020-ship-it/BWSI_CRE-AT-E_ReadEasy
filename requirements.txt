@@ -1,0 +1,4 @@
+Flask==1.1.2
+nltk==3.7
+openai==0.25.0
+pandas==1.4.2

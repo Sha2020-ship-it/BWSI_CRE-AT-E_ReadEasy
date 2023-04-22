@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+        <style>
+            body {
+                background-color: white;
+                font-family: Oswald;
+                font-size: 20px;
+            }
+            h1, h2, h3 {
+                text-align: center;
+                margin: 20px 0;
+            }
+            hr {
+                border: none;
+                border-top: 1px solid #ccc;
+                margin: 50px 0;
+            }
+            #text {
+                margin: 50px;
+                padding: 20px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1>THE INPUT:</h1>
+        <h3>Text:</h3>
+        <p>{{ story }}</p>
+
+        <h3>Titles:</h3>
+        <p>{{ title }}</p>
+
+        <h3>Threshold:</h3>
+        <p>{{ threshold }}</p>
+
+        <hr>
+
+        <h2>Here is your result:</h2>
+        <p id="text">{{ processed_text }}</p>
+    </body>
+</html>
