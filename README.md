@@ -2,7 +2,9 @@
 Our project for BWSI Cre[at]e
 
 Python 3.9+
+
 conda 22.10+
+
 pip 23.1+
 
 ## Installation details:
