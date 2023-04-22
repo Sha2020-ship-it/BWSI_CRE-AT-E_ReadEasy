@@ -1,2 +1,3 @@
-# BWSI_Cre-at-e_ReadEasy
+# BWSI_Create_ReadEasy
 Our project for BWSI Cre[at]e
+
