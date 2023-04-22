@@ -1,4 +1,4 @@
-# BWSI_Create_ReadEasy
+# BWSI_CRE[AT]E_ReadEasy
 Our project for BWSI Cre[at]e
 
 Python 3.9+
