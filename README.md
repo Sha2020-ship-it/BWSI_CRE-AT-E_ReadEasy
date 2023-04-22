@@ -8,6 +8,9 @@ conda 22.10+
 pip 23.1+
 
 ## Installation details:
+
+Input your text, age, and title into the respective fields, and press the submit button. After 2 minutes, another webpage will be opened with the results. 
+
 ```
 pip install -r requirements.txt
 python app.py
